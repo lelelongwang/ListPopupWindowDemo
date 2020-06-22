@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="152dp"
+    android:layout_height="168dp"
+    android:orientation="vertical"
+    android:padding="4dp">
+
+    <TextView
+        android:id="@+id/share_image"
+        android:layout_width="152dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:text="第一个子项"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/save_image"
+        android:layout_width="152dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:text="第二个子项"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/clear_all"
+        android:layout_width="152dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:text="第三个子项"
+        android:textSize="18sp" />
+
+</LinearLayout>
